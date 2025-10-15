@@ -6,5 +6,5 @@ farm.init()
 current_mode = "balanced"
 
 while True:
-	farm.plant_all(current_mode)
+    farm.plant_all(current_mode)
 
